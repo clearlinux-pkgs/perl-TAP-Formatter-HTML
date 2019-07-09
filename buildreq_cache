@@ -1,0 +1,5 @@
+0.11
+perl(Template)
+perl(URI)
+perl(URI::file)
+perl(accessors)
