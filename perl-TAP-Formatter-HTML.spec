@@ -4,7 +4,7 @@
 #
 Name     : perl-TAP-Formatter-HTML
 Version  : 0.11
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/S/SP/SPURKIS/TAP-Formatter-HTML-0.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SP/SPURKIS/TAP-Formatter-HTML-0.11.tar.gz
 Summary  : 'TAP Test Harness output delegate for html output'
@@ -92,12 +92,12 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/App/Prove/Plugin/HTML.pm
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML.pm
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML/Session.pm
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML/default_page.css
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML/default_report.css
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML/default_report.js
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML/default_report.tt2
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML/jquery-1.4.2.min.js
-/usr/lib/perl5/vendor_perl/5.30.3/TAP/Formatter/HTML/jquery.tablesorter-2.0.3.min.js
+/usr/lib/perl5/vendor_perl/5.32.1/App/Prove/Plugin/HTML.pm
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML.pm
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML/Session.pm
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML/default_page.css
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML/default_report.css
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML/default_report.js
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML/default_report.tt2
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML/jquery-1.4.2.min.js
+/usr/lib/perl5/vendor_perl/5.32.1/TAP/Formatter/HTML/jquery.tablesorter-2.0.3.min.js
