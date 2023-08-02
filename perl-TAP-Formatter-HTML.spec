@@ -4,7 +4,7 @@
 #
 Name     : perl-TAP-Formatter-HTML
 Version  : 0.11
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/S/SP/SPURKIS/TAP-Formatter-HTML-0.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SP/SPURKIS/TAP-Formatter-HTML-0.11.tar.gz
 Summary  : 'TAP Test Harness output delegate for html output'
